@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 89db8ffac233a7a4baf3208af4d90d4e
+timeCreated: 1488208136
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Paint Peel
+  fontNames:
+  - Paint Peel
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
